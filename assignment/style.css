@@ -1,4 +1,4 @@
-body{
+header{
     background-color: #8895b7;;
 }
 
@@ -11,7 +11,7 @@ h1{
     -webkit-text-stroke-width: 1px;
 }
 
-.info{
+h2{
     text-shadow: 2px 2px #bdbddd;
     font-size: 30px;
     font-family: monospace;
